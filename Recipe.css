@@ -28,11 +28,13 @@ nav {
 	flex: 1;
 }
 
-.logo span {
-    font-family: 'Raleway', sans-serif;
-    font-weight: bolder;
-    font-size: 1.8rem;
-}
+.logo a {
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+	  font-weight: bolder;
+	  font-size: 1.8rem;
+	  color: #333;
+  }
 
 .search {
 	flex: 2;
